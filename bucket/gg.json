@@ -1,19 +1,19 @@
 {
-    "version": "0.38.0",
+    "version": "0.39.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gagarin-cloud/gg/releases/download/v0.38.0/gg_0.38.0_windows_amd64.zip",
+            "url": "https://github.com/gagarin-cloud/gg/releases/download/v0.39.0/gg_0.39.0_windows_amd64.zip",
             "bin": [
                 "gg.exe"
             ],
-            "hash": "2eeba8d775795954b3249e995370eadffe9d5c489b8a2198713345a17dc014c9"
+            "hash": "dd9885b802067587b6ae4dcaf77e3eb23ac1a75450e4f0c068931c8ab8bacd88"
         },
         "arm64": {
-            "url": "https://github.com/gagarin-cloud/gg/releases/download/v0.38.0/gg_0.38.0_windows_arm64.zip",
+            "url": "https://github.com/gagarin-cloud/gg/releases/download/v0.39.0/gg_0.39.0_windows_arm64.zip",
             "bin": [
                 "gg.exe"
             ],
-            "hash": "2bb52a38f5494b45d1f211461ad7e33bbf6d7c7572aa93ca735fdb4b15aabe33"
+            "hash": "cd99da276ba694fa482a818a638e859ced38b2b34f5d22f42190403c2665c14c"
         }
     },
     "homepage": "https://gagarin.cloud",
