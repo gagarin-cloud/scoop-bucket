@@ -1,22 +1,22 @@
 {
-    "version": "0.51.0",
+    "version": "0.52.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gagarin-cloud/gg/releases/download/v0.51.0/gg_0.51.0_windows_amd64.zip",
+            "url": "https://github.com/gagarin-cloud/gg/releases/download/v0.52.0/gg_0.52.0_windows_amd64.zip",
             "bin": [
                 "gg.exe"
             ],
-            "hash": "b180fc4197a28bfa1b55bbb77786b97d9a311df5538f81bbf4e6797fe275f9e3"
+            "hash": "73cdc11ae291cc18c9b047ee9301237569c3de8c0faf234f018944fd7c44734b"
         },
         "arm64": {
-            "url": "https://github.com/gagarin-cloud/gg/releases/download/v0.51.0/gg_0.51.0_windows_arm64.zip",
+            "url": "https://github.com/gagarin-cloud/gg/releases/download/v0.52.0/gg_0.52.0_windows_arm64.zip",
             "bin": [
                 "gg.exe"
             ],
-            "hash": "558d0c7635f4adb8ffa1ce1d8d4f68c8a94e5ff74c0a994b26b2ce6d57b80dd9"
+            "hash": "1c9d89741eb398c069ad2a35092ebbc0a62c8b50d855e88d5f07da8936f00638"
         }
     },
     "homepage": "https://gagarin.cloud",
     "license": "MIT",
-    "description": "The gagarin CLI - deploy and operate applications on gagarin"
+    "description": "The Gagarin CLI - deploy and operate applications on Gagarin"
 }
